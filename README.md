@@ -107,7 +107,7 @@ Let's trying running it.
 
 _Congratulations friend, you've completed this course!_
 
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
+<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300>
 
 Here's a recap of all the tasks you've accomplished in your repository:
 
@@ -115,8 +115,11 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You built a fully deployable artifact.
 - You did so using GitHub Actions and GitHub Packages!
 
+---
 
-  <img width="524" height="687" alt="Screenshot 2025-09-17 at 10 31 43 AM" src="https://github.com/user-attachments/assets/00435e0d-7495-4266-afb7-0233696db55f" />
+### Evidence
+
+<img width="524" height="687" alt="Screenshot 2025-09-17 at 10 31 43 AM" src="https://github.com/user-attachments/assets/00435e0d-7495-4266-afb7-0233696db55f" />
 
 ### What's next?
 
