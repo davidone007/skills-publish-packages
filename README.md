@@ -115,6 +115,9 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You built a fully deployable artifact.
 - You did so using GitHub Actions and GitHub Packages!
 
+
+  <img width="524" height="687" alt="Screenshot 2025-09-17 at 10 31 43 AM" src="https://github.com/user-attachments/assets/00435e0d-7495-4266-afb7-0233696db55f" />
+
 ### What's next?
 
 - Publish your own packages from your projects.
@@ -122,6 +125,8 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - [Take another GitHub Skills course](https://github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
 - To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+
+
 
 <footer>
 
